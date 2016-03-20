@@ -5,6 +5,7 @@
 #You can try out commands in Ruby to see if they work in irb. It's a handy tool
 #Go in to irb and try some of the commands we learned last time, such as 'puts'
 #You can also do math using Ruby in irb. Try some equations
+#When you are done with irb, you can leave by typing 'exit'
 
 #Another tool for debugging in Ruby is called pry. Pry is a Ruby gem. Gems allow you to expand Ruby's capabilities.
 #Ruby gems are installed automatically in versions of Ruby higher than 1.8.
