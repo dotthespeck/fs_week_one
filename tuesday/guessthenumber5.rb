@@ -1,5 +1,7 @@
 #We are going to add one more feature to our guess the number game
 #If the player wants to see the previous numbers, we will keep them available in an array
+#An array keeps our information in an ordered list. We will look more extensively at arrays later
+#If you want to see what is in this array as you move through the code, require 'pry' and put in a binding pry
 
 right_number = rand(1..100)
 
