@@ -8,7 +8,7 @@ right_number = rand(1..10)
 puts "Please guess a number between 1-10"
 guessed_number = gets.chomp
 
-#'Or' checks if either of the conditions is true. If it is, then the code will run
+#'Or' checks if either of the conditions is true. If it is, then the code will run.
 #You can also use 'and', but then all of the conditions need to be true (wouldn't work in this case)
 if guessed_number.to_i > 10 or guessed_number.to_i < 0
   puts "Your guess is too high or too low. The number must be between 1-10."
